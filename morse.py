@@ -7,7 +7,8 @@ diccionario_morse = {'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.',
                      '3': '...--', '4': '....-', '5': '.....', '6': '-....', 
                      '7': '--...', '8': '---..', '9': '----.'}
 
-cadena = "Hola, este es un mensaje de prueba"
+#cadena = "Hola, este es un mensaje de prueba"
+cadena = "Hola este es un mensaje de prueba"
 cadena = cadena.upper()
 
 cadena_codificada = ""
